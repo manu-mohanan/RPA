@@ -1191,9 +1191,9 @@
     "restore": {
       "projectUniqueName": "PDF",
       "projectName": "PDF",
-      "projectPath": "D:\\Manu\\Projects\\RPA\\Projects\\Read from Excel Files - Example\\Read PDF files - Example\\.local",
+      "projectPath": "D:\\Manu\\Projects\\RPA\\Git\\Sample Test\\.local",
       "packagesPath": "C:\\Users\\Manum\\.nuget\\packages\\",
-      "outputPath": "D:\\Manu\\Projects\\RPA\\Projects\\Read from Excel Files - Example\\Read PDF files - Example\\.local"
+      "outputPath": "D:\\Manu\\Projects\\RPA\\Git\\Sample Test\\.local"
     },
     "frameworks": {
       "net461": {
